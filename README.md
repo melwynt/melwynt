@@ -1,7 +1,8 @@
 <img align="right" alt="Coding" src="./Depositphotos_444512430_XL_1600x500-min.jpg" />
 
 <h1 align="center">Hi 👋, I'm Melwyn</h1>
-<h3 align="center">A passionate French frontend developer from Poland</h3>
+<h3 align="center">A passionate Data Engineer and Frontend Developer.</h3>
+<h4 align="center">English / French speaker.</h4>
 
 <img align="right" alt="Coding" width="400" src="./git-min.png" />
 
